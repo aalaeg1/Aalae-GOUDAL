@@ -1,1 +1,1 @@
-Advanced Styling with Responsive Design
+Create a Responsive Stylesheet
